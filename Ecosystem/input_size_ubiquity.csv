@@ -1,0 +1,254 @@
+﻿Ecosystem Input,Ecosystem Size,Ubiquity,code,code_2,Sector
+151,60,309,1133,11,"Agriculture, Forestry, Fishing and Hunting"
+110,56,258,1151,11,"Agriculture, Forestry, Fishing and Hunting"
+103,60,254,1152,11,"Agriculture, Forestry, Fishing and Hunting"
+123,71,157,2111,21,"Mining, Quarrying, and Oil and Gas Extraction"
+72,156,74,2121,21,"Mining, Quarrying, and Oil and Gas Extraction"
+130,150,43,2122,21,"Mining, Quarrying, and Oil and Gas Extraction"
+78,161,443,2123,21,"Mining, Quarrying, and Oil and Gas Extraction"
+98,129,176,2131,21,"Mining, Quarrying, and Oil and Gas Extraction"
+108,153,402,2211,22,Utilities
+106,63,264,2212,22,Utilities
+109,63,338,2213,22,Utilities
+147,27,393,2361,23,Construction
+146,37,326,2362,23,Construction
+121,31,269,2371,23,Construction
+113,97,244,2372,23,Construction
+119,36,368,2373,23,Construction
+139,32,217,2379,23,Construction
+114,27,334,2381,23,Construction
+110,34,341,2382,23,Construction
+127,28,199,2383,23,Construction
+99,31,445,2389,23,Construction
+88,72,270,3111,31,Manufacturing
+77,218,170,3112,31,Manufacturing
+117,66,150,3113,31,Manufacturing
+67,211,175,3114,31,Manufacturing
+71,162,199,3115,31,Manufacturing
+109,57,235,3116,31,Manufacturing
+101,180,69,3117,31,Manufacturing
+128,39,187,3118,31,Manufacturing
+83,197,203,3119,31,Manufacturing
+83,189,184,3121,31,Manufacturing
+115,131,29,3122,31,Manufacturing
+95,177,70,3131,31,Manufacturing
+111,149,113,3132,31,Manufacturing
+113,132,91,3133,31,Manufacturing
+101,199,105,3141,31,Manufacturing
+104,77,247,3149,31,Manufacturing
+112,188,36,3151,31,Manufacturing
+112,75,82,3152,31,Manufacturing
+156,77,76,3159,31,Manufacturing
+90,179,46,3161,31,Manufacturing
+87,210,50,3162,31,Manufacturing
+81,197,107,3169,31,Manufacturing
+88,165,342,3211,32,Manufacturing
+103,152,264,3212,32,Manufacturing
+75,91,398,3219,32,Manufacturing
+115,126,149,3221,32,Manufacturing
+98,154,297,3222,32,Manufacturing
+102,162,221,3231,32,Manufacturing
+76,157,149,3241,32,Manufacturing
+85,139,215,3251,32,Manufacturing
+70,161,174,3253,32,Manufacturing
+78,144,101,3254,32,Manufacturing
+92,144,143,3255,32,Manufacturing
+79,161,110,3256,32,Manufacturing
+71,162,168,3259,32,Manufacturing
+89,110,353,3261,32,Manufacturing
+81,125,193,3262,32,Manufacturing
+93,193,175,3271,32,Manufacturing
+85,155,152,3272,32,Manufacturing
+78,194,463,3273,32,Manufacturing
+114,195,75,3274,32,Manufacturing
+90,162,214,3279,32,Manufacturing
+91,174,117,3313,33,Manufacturing
+93,191,128,3314,33,Manufacturing
+76,185,211,3315,33,Manufacturing
+99,130,196,3321,33,Manufacturing
+102,176,122,3322,33,Manufacturing
+93,169,348,3323,33,Manufacturing
+107,151,206,3324,33,Manufacturing
+111,141,107,3325,33,Manufacturing
+103,126,145,3326,33,Manufacturing
+80,149,192,3328,33,Manufacturing
+109,91,284,3329,33,Manufacturing
+75,162,245,3331,33,Manufacturing
+83,177,216,3332,33,Manufacturing
+65,179,148,3333,33,Manufacturing
+110,124,192,3334,33,Manufacturing
+90,209,214,3335,33,Manufacturing
+96,206,135,3336,33,Manufacturing
+78,167,294,3339,33,Manufacturing
+80,173,61,3341,33,Manufacturing
+93,192,88,3342,33,Manufacturing
+101,180,128,3344,33,Manufacturing
+84,149,118,3345,33,Manufacturing
+102,152,42,3346,33,Manufacturing
+109,133,113,3351,33,Manufacturing
+68,187,61,3352,33,Manufacturing
+90,201,182,3353,33,Manufacturing
+86,175,176,3359,33,Manufacturing
+86,172,57,3361,33,Manufacturing
+81,179,204,3362,33,Manufacturing
+82,125,257,3363,33,Manufacturing
+73,196,99,3364,33,Manufacturing
+97,201,59,3365,33,Manufacturing
+118,119,91,3366,33,Manufacturing
+90,192,106,3369,33,Manufacturing
+83,131,236,3371,33,Manufacturing
+101,154,180,3372,33,Manufacturing
+87,198,158,3391,33,Manufacturing
+73,147,253,3399,33,Manufacturing
+126,50,291,4231,42,Wholesale Trade
+93,128,103,4232,42,Wholesale Trade
+109,114,264,4233,42,Wholesale Trade
+101,115,86,4234,42,Wholesale Trade
+75,140,217,4235,42,Wholesale Trade
+111,158,61,4236,42,Wholesale Trade
+96,122,166,4237,42,Wholesale Trade
+92,154,407,4238,42,Wholesale Trade
+105,143,225,4239,42,Wholesale Trade
+92,130,136,4241,42,Wholesale Trade
+110,62,84,4242,42,Wholesale Trade
+107,158,89,4243,42,Wholesale Trade
+92,165,379,4245,42,Wholesale Trade
+87,85,170,4246,42,Wholesale Trade
+94,172,410,4247,42,Wholesale Trade
+81,129,316,4248,42,Wholesale Trade
+98,177,364,4249,42,Wholesale Trade
+108,50,157,4251,42,Wholesale Trade
+152,49,579,4411,44,Retail Trade
+102,40,540,4412,44,Retail Trade
+118,36,768,4413,44,Retail Trade
+105,97,463,4421,44,Retail Trade
+108,112,279,4422,44,Retail Trade
+130,29,349,4431,44,Retail Trade
+153,47,675,4441,44,Retail Trade
+95,46,680,4442,44,Retail Trade
+167,45,480,4451,44,Retail Trade
+106,36,321,4452,44,Retail Trade
+124,48,385,4453,44,Retail Trade
+152,47,446,4461,44,Retail Trade
+141,32,815,4471,44,Retail Trade
+169,41,201,4481,44,Retail Trade
+156,24,258,4482,44,Retail Trade
+89,157,345,4511,45,Retail Trade
+95,152,285,4512,45,Retail Trade
+87,131,574,4531,45,Retail Trade
+97,139,389,4532,45,Retail Trade
+105,48,426,4533,45,Retail Trade
+121,44,442,4539,45,Retail Trade
+95,176,163,4541,45,Retail Trade
+96,143,489,4543,45,Retail Trade
+87,98,43,4811,48,Transportation and Warehousing
+99,119,48,4831,48,Transportation and Warehousing
+106,85,58,4832,48,Transportation and Warehousing
+114,50,424,4841,48,Transportation and Warehousing
+105,40,488,4842,48,Transportation and Warehousing
+104,86,143,4853,48,Transportation and Warehousing
+89,109,226,4854,48,Transportation and Warehousing
+82,188,187,4855,48,Transportation and Warehousing
+90,128,66,4861,48,Transportation and Warehousing
+124,58,225,4862,48,Transportation and Warehousing
+80,162,133,4869,48,Transportation and Warehousing
+103,114,99,4871,48,Transportation and Warehousing
+89,101,88,4872,48,Transportation and Warehousing
+149,56,37,4879,48,Transportation and Warehousing
+108,54,140,4881,48,Transportation and Warehousing
+100,127,152,4882,48,Transportation and Warehousing
+113,122,74,4883,48,Transportation and Warehousing
+91,138,287,4884,48,Transportation and Warehousing
+83,125,125,4885,48,Transportation and Warehousing
+109,145,70,4889,48,Transportation and Warehousing
+78,116,167,4921,49,Transportation and Warehousing
+154,79,159,4922,49,Transportation and Warehousing
+87,123,263,4931,49,Transportation and Warehousing
+138,26,303,5111,51,Information
+97,153,113,5121,51,Information
+113,128,48,5122,51,Information
+136,31,329,5151,51,Information
+164,30,35,5152,51,Information
+71,107,172,5179,51,Information
+164,26,99,5191,51,Information
+89,130,20,5211,52,Finance and Insurance
+123,43,430,5221,52,Finance and Insurance
+158,42,144,5222,52,Finance and Insurance
+93,96,91,5223,52,Finance and Insurance
+82,57,29,5231,52,Finance and Insurance
+65,151,5,5232,52,Finance and Insurance
+88,76,34,5239,52,Finance and Insurance
+104,122,132,5241,52,Finance and Insurance
+107,117,214,5242,52,Finance and Insurance
+111,133,43,5259,52,Finance and Insurance
+97,47,219,5311,53,Real Estate and Rental and Leasing
+119,64,209,5312,53,Real Estate and Rental and Leasing
+106,39,134,5313,53,Real Estate and Rental and Leasing
+109,54,626,5322,53,Real Estate and Rental and Leasing
+99,54,433,5323,53,Real Estate and Rental and Leasing
+108,61,179,5324,53,Real Estate and Rental and Leasing
+96,137,99,5331,53,Real Estate and Rental and Leasing
+138,81,83,5411,54,"Professional, Scientific, and Technical Services"
+139,40,131,5412,54,"Professional, Scientific, and Technical Services"
+111,52,150,5413,54,"Professional, Scientific, and Technical Services"
+105,102,111,5414,54,"Professional, Scientific, and Technical Services"
+148,54,86,5416,54,"Professional, Scientific, and Technical Services"
+100,77,89,5417,54,"Professional, Scientific, and Technical Services"
+98,78,56,5418,54,"Professional, Scientific, and Technical Services"
+132,40,261,5419,54,"Professional, Scientific, and Technical Services"
+91,85,120,5511,55,Management of Companies and Enterprises
+92,153,136,5611,56,Administrative and Support
+91,168,136,5612,56,Administrative and Support
+94,49,242,5613,56,Administrative and Support
+94,56,242,5614,56,Administrative and Support
+156,50,78,5615,56,Administrative and Support
+98,191,88,5616,56,Administrative and Support
+116,44,158,5617,56,Administrative and Support
+88,177,163,5619,56,Administrative and Support
+103,68,393,5621,56,Waste Management and Remediation Services
+111,63,234,5622,56,Waste Management and Remediation Services
+104,61,237,5629,56,Waste Management and Remediation Services
+97,51,228,6111,61,Educational Services
+128,176,137,6112,61,Educational Services
+96,97,187,6113,61,Educational Services
+93,73,139,6114,61,Educational Services
+104,87,144,6115,61,Educational Services
+101,56,139,6116,61,Educational Services
+98,63,114,6117,61,Educational Services
+109,39,409,6211,62,Health Care and Social Assistance
+127,26,376,6212,62,Health Care and Social Assistance
+103,50,374,6214,62,Health Care and Social Assistance
+105,63,292,6216,62,Health Care and Social Assistance
+98,42,343,6219,62,Health Care and Social Assistance
+91,79,528,6221,62,Health Care and Social Assistance
+122,77,162,6222,62,Health Care and Social Assistance
+125,69,140,6223,62,Health Care and Social Assistance
+130,60,608,6231,62,Health Care and Social Assistance
+131,55,440,6232,62,Health Care and Social Assistance
+134,49,417,6233,62,Health Care and Social Assistance
+94,45,395,6241,62,Health Care and Social Assistance
+122,49,374,6244,62,Health Care and Social Assistance
+79,89,101,7111,71,"Arts, Entertainment, and Recreation"
+125,92,82,7112,71,"Arts, Entertainment, and Recreation"
+98,64,121,7113,71,"Arts, Entertainment, and Recreation"
+108,185,43,7114,71,"Arts, Entertainment, and Recreation"
+141,54,108,7115,71,"Arts, Entertainment, and Recreation"
+104,80,179,7121,71,"Arts, Entertainment, and Recreation"
+136,53,68,7131,71,"Arts, Entertainment, and Recreation"
+128,52,150,7132,71,"Arts, Entertainment, and Recreation"
+130,47,301,7139,71,"Arts, Entertainment, and Recreation"
+157,51,250,7211,72,Accommodation and Food Services
+119,64,174,7213,72,Accommodation and Food Services
+129,100,240,7223,72,Accommodation and Food Services
+83,50,552,7225,72,Accommodation and Food Services
+101,99,503,8111,81,Other Services (except Public Administration)
+111,49,250,8114,81,Other Services (except Public Administration)
+156,55,231,8121,81,Other Services (except Public Administration)
+120,37,607,8122,81,Other Services (except Public Administration)
+124,49,298,8123,81,Other Services (except Public Administration)
+135,44,68,8129,81,Other Services (except Public Administration)
+116,43,545,8131,81,Other Services (except Public Administration)
+92,105,138,8132,81,Other Services (except Public Administration)
+114,46,206,8133,81,Other Services (except Public Administration)
+103,36,470,8134,81,Other Services (except Public Administration)
+117,43,172,8139,81,Other Services (except Public Administration)
